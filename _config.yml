@@ -4,21 +4,21 @@
 
 # Site
 #标题
-title: 风吹新花入晚楼
+title: Haocean
 #副标题
 subtitle:
 #网站描述
 description: 
 keywords:
 #作者
-author: 船泊湘风晚
+author: Haocean
 language: zh_Hans
 #时区
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://hao0129.github.io
+url: https://haocean.wang
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
