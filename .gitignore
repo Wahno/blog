@@ -8,3 +8,10 @@ public/
 themes/yilia/
 source/_posts/
 update.bat
+_config.yml
+package-lock.json
+scaffolds/draft.md
+package.json
+scaffolds/page.md
+scaffolds/post.md
+update_photo.bat
