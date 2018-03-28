@@ -4,6 +4,14 @@ db.json
 *.log
 node_modules/
 public/
+__pycache__/
+source/
+scaffolds/
+
+update_photo.bat
+
+package.json
+package-lock.json
 .deploy*/
 themes/yilia/
 source/_posts/
